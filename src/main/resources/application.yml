@@ -1,0 +1,5 @@
+server:
+  shutdown: graceful
+  servlet:
+    context-path: /casino
+  port: 8080
